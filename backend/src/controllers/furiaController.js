@@ -53,7 +53,7 @@ exports.getProximoJogo = (req, res) => {
   
   exports.getCuriosidade = (req, res) => {
     res.json({
-      curiosidade: "A organização foi eleita por dois anos consecutivos, em 2020 e 2021, como a melhor organização de esportes eletrônicos no Prêmio eSports Brasi"
+      curiosidade: "A organização foi eleita por dois anos consecutivos, em 2020 e 2021, como a melhor organização de esportes eletrônicos no Prêmio eSports Brasil"
     });
   };
 
